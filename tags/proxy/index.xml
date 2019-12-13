@@ -17,7 +17,9 @@
       <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://spiderDetective.github.io/proxy/</guid>
-      <description>dynamic proxy server</description>
+      <description>正向代理服务 分为静态代理和动态代理
+ 静态代理 采用固定IP的几台代理服务器。用户请求负载均衡到其中某一台代理服务器。代理服务器定期更换。 动态代理 保证用户的请求每次都从不同IP的代理服务器发出。  支持的协议  http代理 http(s)隧道代理 socks5代理 支持协议定制  使用方法 请求中携带用户名和密码。http采用basic认证。例子：https://github.com/spiderDetective/dynamicProxyExample
+请邮件联系获取用户名和密码 </description>
     </item>
     
   </channel>
