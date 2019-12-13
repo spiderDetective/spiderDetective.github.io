@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>service cloud</title>
-    <link>https://spiderDetective.github.io/spiderDetective/</link>
+    <link>https://spiderDetective.github.io/</link>
     <description>Recent content on service cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://spiderDetective.github.io/spiderDetective/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://spiderDetective.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>dynamic proxy</title>
-      <link>https://spiderDetective.github.io/spiderDetective/proxy/</link>
+      <link>https://spiderDetective.github.io/proxy/</link>
       <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://spiderDetective.github.io/spiderDetective/proxy/</guid>
+      <guid>https://spiderDetective.github.io/proxy/</guid>
       <description>dynamic proxy server</description>
     </item>
     
